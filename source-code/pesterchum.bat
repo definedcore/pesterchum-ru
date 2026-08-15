@@ -1,0 +1,2 @@
+python pesterchum.py
+pause
