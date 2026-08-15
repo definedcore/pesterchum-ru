@@ -2,7 +2,7 @@
 Перевод чата Pesterchum по комиксу Homestuck с возможностью подключаться к альтренативным серверам 
 
 ## Смайлики <img height="32" alt="pesterchum what did you do smilie" src="source-code/smilies/whatdidyoudo.gif">
-|Text|Smilie|
+|Текст|Смайл|
 |:--- | :--- |
 |`:rancorous:`|<img alt=':rancorous: pesterchum smilie/emote' src='source-code/smilies/pc_rancorous.png'>|
 |`:apple:`|<img alt=':apple: pesterchum smilie/emote' src='source-code/smilies/apple.png'>|
@@ -64,6 +64,6 @@
 |`:playagame:`|<img alt=':playagame: pesterchum smilie/emote' src='source-code/smilies/saw.gif'>|
 |`:trollc00l:`|<img alt=':trollc00l: pesterchum smilie/emote' src='source-code/smilies/trollc00l.gif'>|
 |`:suckers:`|<img alt=':suckers: pesterchum smilie/emote' src='source-code/smilies/Suckers.gif'>|
-|`:scorpio:`|<img alt=':scorpio: pesterchum smilie/emote' src='smilies/scorpio.gif'>|
-|`:shades:`|<img alt=':shades: pesterchum smilie/emote' src='smilies/shades.png'>|
-|`:honk:`|<img alt=':honk: pesterchum smilie/emote' src='smilies/honk.png'>|
+|`:scorpio:`|<img alt=':scorpio: pesterchum smilie/emote' src='source-code/smilies/scorpio.gif'>|
+|`:shades:`|<img alt=':shades: pesterchum smilie/emote' src='source-code/smilies/shades.png'>|
+|`:honk:`|<img alt=':honk: pesterchum smilie/emote' src='source-code/smilies/honk.png'>|
