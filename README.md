@@ -1,2 +1,69 @@
 # pesterchum-ru
 Перевод чата Pesterchum по комиксу Homestuck с возможностью подключаться к альтренативным серверам 
+
+## Смайлики <img height="32" alt="pesterchum what did you do smilie" src="source-code/smilies/whatdidyoudo.gif">
+|Text|Smilie|
+|:--- | :--- |
+|`:rancorous:`|<img alt=':rancorous: pesterchum smilie/emote' src='source-code/smilies/pc_rancorous.png'>|
+|`:apple:`|<img alt=':apple: pesterchum smilie/emote' src='source-code/smilies/apple.png'>|
+|`:bathearst:`|<img alt=':bathearst: pesterchum smilie/emote' src='source-code/smilies/bathearst.png'>|
+|`:cathearst:`|<img alt=':cathearst: pesterchum smilie/emote' src='source-code/smilies/cathearst.png'>|
+|`:woeful:`|<img alt=':woeful: pesterchum smilie/emote' src='source-code/smilies/pc_bemused.png'>|
+|`:sorrow:`|<img alt=':sorrow: pesterchum smilie/emote' src='source-code/smilies/blacktear.png'>|
+|`:pleasant:`|<img alt=':pleasant: pesterchum smilie/emote' src='source-code/smilies/pc_pleasant.png'>|
+|`:blueghost:`|<img alt=':blueghost: pesterchum smilie/emote' src='source-code/smilies/blueslimer.gif'>|
+|`:slimer:`|<img alt=':slimer: pesterchum smilie/emote' src='source-code/smilies/slimer.gif'>|
+|`:candycorn:`|<img alt=':candycorn: pesterchum smilie/emote' src='source-code/smilies/candycorn.png'>|
+|`:cheer:`|<img alt=':cheer: pesterchum smilie/emote' src='source-code/smilies/cheer.gif'>|
+|`:duhjohn:`|<img alt=':duhjohn: pesterchum smilie/emote' src='source-code/smilies/confusedjohn.gif'>|
+|`:datrump:`|<img alt=':datrump: pesterchum smilie/emote' src='source-code/smilies/datrump.png'>|
+|`:facepalm:`|<img alt=':facepalm: pesterchum smilie/emote' src='source-code/smilies/facepalm.png'>|
+|`:bonk:`|<img alt=':bonk: pesterchum smilie/emote' src='source-code/smilies/headbonk.gif'>|
+|`:mspa:`|<img alt=':mspa: pesterchum smilie/emote' src='source-code/smilies/mspa_face.png'>|
+|`:gun:`|<img alt=':gun: pesterchum smilie/emote' src='source-code/smilies/mspa_reader.gif'>|
+|`:cal:`|<img alt=':cal: pesterchum smilie/emote' src='source-code/smilies/lilcal.png'>|
+|`:amazedfirman:`|<img alt=':amazedfirman: pesterchum smilie/emote' src='source-code/smilies/pc_amazedfirman.png'>|
+|`:amazed:`|<img alt=':amazed: pesterchum smilie/emote' src='source-code/smilies/pc_amazed.png'>|
+|`:chummy:`|<img alt=':chummy: pesterchum smilie/emote' src='source-code/smilies/pc_chummy.png'>|
+|`:cool:`|<img alt=':cool: pesterchum smilie/emote' src='source-code/smilies/pccool.png'>|
+|`:smooth:`|<img alt=':smooth: pesterchum smilie/emote' src='source-code/smilies/pccool.png'>|
+|`:distraughtfirman:`|<img alt=':distraughtfirman: pesterchum smilie/emote' src='source-code/smilies/pc_distraughtfirman.png'>|
+|`:distraught:`|<img alt=':distraught: pesterchum smilie/emote' src='source-code/smilies/pc_distraught.png'>|
+|`:insolent:`|<img alt=':insolent: pesterchum smilie/emote' src='source-code/smilies/pc_insolent.png'>|
+|`:bemused:`|<img alt=':bemused: pesterchum smilie/emote' src='source-code/smilies/pc_bemused.png'>|
+|`:3:`|<img alt=':3: pesterchum smilie/emote' src='source-code/smilies/pckitty.png'>|
+|`:mystified:`|<img alt=':mystified: pesterchum smilie/emote' src='source-code/smilies/pc_mystified.png'>|
+|`:pranky:`|<img alt=':pranky: pesterchum smilie/emote' src='source-code/smilies/pc_pranky.png'>|
+|`:tense:`|<img alt=':tense: pesterchum smilie/emote' src='source-code/smilies/pc_tense.png'>|
+|`:record:`|<img alt=':record: pesterchum smilie/emote' src='source-code/smilies/record.gif'>|
+|`:squiddle:`|<img alt=':squiddle: pesterchum smilie/emote' src='source-code/smilies/squiddle.gif'>|
+|`:tab:`|<img alt=':tab: pesterchum smilie/emote' src='source-code/smilies/tab.gif'>|
+|`:beetip:`|<img alt=':beetip: pesterchum smilie/emote' src='source-code/smilies/theprofessor.png'>|
+|`:flipout:`|<img alt=':flipout: pesterchum smilie/emote' src='source-code/smilies/weasel.gif'>|
+|`:befuddled:`|<img alt=':befuddled: pesterchum smilie/emote' src='source-code/smilies/what.png'>|
+|`:pumpkin:`|<img alt=':pumpkin: pesterchum smilie/emote' src='source-code/smilies/whatpumpkin.png'>|
+|`:trollcool:`|<img alt=':trollcool: pesterchum smilie/emote' src='source-code/smilies/trollcool.png'>|
+|`:jadecry:`|<img alt=':jadecry: pesterchum smilie/emote' src='source-code/smilies/jadespritehead.gif'>|
+|`:ecstatic:`|<img alt=':ecstatic: pesterchum smilie/emote' src='source-code/smilies/ecstatic.png'>|
+|`:relaxed:`|<img alt=':relaxed: pesterchum smilie/emote' src='source-code/smilies/relaxed.png'>|
+|`:discontent:`|<img alt=':discontent: pesterchum smilie/emote' src='source-code/smilies/discontent.png'>|
+|`:devious:`|<img alt=':devious: pesterchum smilie/emote' src='source-code/smilies/devious.png'>|
+|`:sleek:`|<img alt=':sleek: pesterchum smilie/emote' src='source-code/smilies/sleek.png'>|
+|`:detestful:`|<img alt=':detestful: pesterchum smilie/emote' src='source-code/smilies/detestful.png'>|
+|`:mirthful:`|<img alt=':mirthful: pesterchum smilie/emote' src='source-code/smilies/mirthful.png'>|
+|`:manipulative:`|<img alt=':manipulative: pesterchum smilie/emote' src='source-code/smilies/manipulative.png'>|
+|`:vigorous:`|<img alt=':vigorous: pesterchum smilie/emote' src='source-code/smilies/vigorous.png'>|
+|`:perky:`|<img alt=':perky: pesterchum smilie/emote' src='source-code/smilies/perky.png'>|
+|`:acceptant:`|<img alt=':acceptant: pesterchum smilie/emote' src='source-code/smilies/acceptant.png'>|
+|`:olliesouty:`|<img alt=':olliesouty: pesterchum smilie/emote' src='source-code/smilies/olliesouty.gif'>|
+|`:billiards:`|<img alt=':billiards: pesterchum smilie/emote' src='source-code/smilies/poolballS.gif'>|
+|`:billiardslarge:`|<img alt=':billiardslarge: pesterchum smilie/emote' src='source-code/smilies/poolballL.gif'>|
+|`:whatdidyoudo:`|<img alt=':whatdidyoudo: pesterchum smilie/emote' src='source-code/smilies/whatdidyoudo.gif'>|
+|`:brocool:`|<img alt=':brocool: pesterchum smilie/emote' src='source-code/smilies/pcstrider.png'>|
+|`:trollbro:`|<img alt=':trollbro: pesterchum smilie/emote' src='source-code/smilies/trollbro.png'>|
+|`:playagame:`|<img alt=':playagame: pesterchum smilie/emote' src='source-code/smilies/saw.gif'>|
+|`:trollc00l:`|<img alt=':trollc00l: pesterchum smilie/emote' src='source-code/smilies/trollc00l.gif'>|
+|`:suckers:`|<img alt=':suckers: pesterchum smilie/emote' src='source-code/smilies/Suckers.gif'>|
+|`:scorpio:`|<img alt=':scorpio: pesterchum smilie/emote' src='smilies/scorpio.gif'>|
+|`:shades:`|<img alt=':shades: pesterchum smilie/emote' src='smilies/shades.png'>|
+|`:honk:`|<img alt=':honk: pesterchum smilie/emote' src='smilies/honk.png'>|
